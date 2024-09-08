@@ -1,0 +1,27 @@
+team,win,loss,kmeans_cluster,agg_cluster,final_cluster
+Arsenal,126,60,0,0,0
+Aston Villa,92,93,1,2,1
+Bournemouth,33,59,2,1,2
+Brentford,38,46,2,1,2
+Brighton and Hove Albion,69,82,1,2,1
+Burnley,47,93,1,2,1
+Chelsea,128,75,1,0,1
+Crystal Palace,70,95,1,2,1
+Everton,79,96,1,2,1
+Fulham,38,73,1,1,1
+Leeds United,52,69,1,1,1
+Leicester City,99,84,1,2,1
+Liverpool,175,39,0,0,0
+Luton Town,6,24,2,1,2
+Manchester City,191,41,0,0,0
+Manchester United,135,63,0,0,0
+Newcastle United,85,84,1,2,1
+Norwich City,10,53,2,1,2
+Nottingham Forest,18,38,2,1,2
+Sheffield United,31,98,1,2,1
+Southampton,54,95,1,2,1
+Tottenham Hotspur,128,83,1,0,1
+Watford,14,47,2,1,2
+West Bromwich Albion,10,44,2,1,2
+West Ham United,89,89,1,2,1
+Wolverhampton Wanderers,78,97,1,2,1
